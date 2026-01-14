@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Kill",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:15:53.602588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In For The Kill",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/01_In_For_The_Kill_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In for the Kill (Danger's Ocean remix)",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/02_In_for_the_Kill_(Danger's_Ocean_remix)_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In For The Kill (Danger Ocean Remix)",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/03_In_For_The_Kill_(Danger_Ocean_Remix)_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In For The Kill (Skream Let's Get Ravey Remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/04_In_For_The_Kill_(Skream_Let's_Get_Ravey_Remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In For The Kill (Skream's Let's Get Ravey Remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/05_In_For_The_Kill_(Skream's_Let's_Get_Ravey_Remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In for the Kill (Skrillex remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/06_In_for_the_Kill_(Skrillex_remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In For The Kill - Tim Bran Remix",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/07_In_For_The_Kill_-_Tim_Bran_Remix_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In for the Kill (Lifelike Remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/08_In_for_the_Kill_(Lifelike_Remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In for the Kill",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/09_In_for_the_Kill_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In for the Kill",
+      "artist": "Black Sabbath featuring Tony Iommi",
+      "has_synced": false,
+      "path": "select/10_In_for_the_Kill_Black_Sabbath_featuring_Tony_Iommi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live For The Kill",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/11_Live_For_The_Kill_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In For The Kill Remix - La Roux",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/12_In_For_The_Kill_Remix_-_La_Roux_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Subject of the Kill",
+      "artist": "De Novo Dahl",
+      "has_synced": false,
+      "path": "select/13_Subject_of_the_Kill_De_Novo_Dahl.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In for the Kill",
+      "artist": "Winger",
+      "has_synced": false,
+      "path": "select/14_In_for_the_Kill_Winger.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Kill",
+      "artist": "Fugazi",
+      "has_synced": true,
+      "path": "select/15_The_Kill_Fugazi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Kill",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/16_The_Kill_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Kill",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/17_The_Kill_Joy_Division.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Kill",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_The_Kill_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
